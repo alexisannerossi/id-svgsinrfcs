@@ -73,7 +73,7 @@ SVG tooling and implementation decisions are made or overseen by the RPC, and mu
 * SVGs must remain static after publication of the RFC, so there may be interactive, multimedia, or other elements that cannot be used.  
 * SVGs must not contain pointers to external resources.  
 * SVGs must not contain executable script.
-* If an SVG is included in an RFC, it should also be included in any publication format that can adequately represent the SVG. The RPC may choose to support conversions from SVG to another image format if a publication format requires it.
+* When an SVG is present in rfcxml, the publication formats should include the best version of the image that the format can support. In many cases this is expected to be the SVG. If the publication format cannot support an image, a link to the image in another format should be included. The RPC may choose to support conversions from SVG to another image format if a publication format requires it.
 * SVGs should be as accessible as possible to people with visual disabilities, including those who have color blindness, those who need to scale or change fonts, and those who use screen reading software. The RPC will refer to the W3C Accessibility Guidelines {{WAI}} when making decisions regarding accessibility.
 * SVG vocabulary and implementation may change over time and is not required to remain backwards-compatible.
 
