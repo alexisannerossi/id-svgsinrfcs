@@ -80,7 +80,7 @@ SVG tooling and implementation decisions are made or overseen by the RPC, and mu
 The RPC is authorized to place constraints on SVG usage in RFCs for both technical and editorial reasons
 in order to ensure that published RFCs meet the above policy
 and to provide consistency across the RFC series.
-The RPC must document the acceptable usage of SVGs in RFCs, and all changes to tooling or implementation decisions must be widely communicated to the RFC author community using mailing lists or other means.
+The RPC must document the acceptable usage of SVGs, and all changes to tooling or implementation decisions must be widely communicated to the RFC author community using mailing lists or other means.
 
 # Implementation Guidance
 
