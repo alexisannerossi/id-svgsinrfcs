@@ -1,13 +1,12 @@
 ---
 title: SVGs in RFCs
-abbrev: svgsinfrcs
 docname: draft-rossi-svgsinrfcs-00
 venue:
-#  group: RSWG
-#  type: Working Group
-#  mail: rswg@rfc-editor.org
-#  arch: https://datatracker.ietf.org/edwg/rswg/
-  github: "id-svgsinrfcs"
+  group: RSWG
+  type: Editorial Stream Working Group
+  mail: rswg@rfc-editor.org
+  arch: https://mailarchive.ietf.org/arch/browse/rswg/
+  github: "alexisannerossi/id-svgsinrfcs"
   latest: "https://github.com/alexisannerossi/id-svgsinrfcs/blob/main/svgsinrfcs.md"
 stand_alone: true
 v: 3
