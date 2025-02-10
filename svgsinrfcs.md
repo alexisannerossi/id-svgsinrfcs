@@ -69,18 +69,18 @@ The RFC Publication Center (RPC) is responsible for making SVG tooling and imple
 SVG tooling and implementation decisions are made or overseen by the RPC, and must adhere to the policy requirements in this document. 
 
 * SVGs may be included in RFCs to help explain a concept more clearly, but cannot be the only representation of that concept and must not contain details relevant to the RFC that are not also represented in the text. Normative descriptions of protocols, systems, etc. must be fully represented in the text of the RFC, and must not be contingent on comprehension of any SVG. SVGs are never to be considered as specifications in themselves.
-* SVGs in RFCs must render well on a wide variety of common devices, including those with smaller screens.   
+* SVGs in RFCs must render well on a wide variety of common devices, including those with smaller screens. Decisions about which devices to support should be based on usage statistics of the rfc-editor.org site.  
 * SVGs must remain static after publication of the RFC, so there may be interactive, multimedia, or other elements that cannot be used.  
 * SVGs must not contain pointers to external resources.  
 * SVGs must not contain executable script.
-* If an SVG is included in an RFC, it should also be included in any publication format that can adequately represent the SVG. The RPC may choose to support conversions from SVG to another image format if a publication format requires it.
+* When an SVG is present in rfcxml, the publication formats should include the best version of the image that the format can support. In many cases this is expected to be the SVG. If the publication format cannot support an image, a link to the image in another format should be included. The RPC may choose to support conversions from SVG to another image format if a publication format requires it.
 * SVGs should be as accessible as possible to people with visual disabilities, including those who have color blindness, those who need to scale or change fonts, and those who use screen reading software. The RPC will refer to the W3C Accessibility Guidelines {{WAI}} when making decisions regarding accessibility.
 * SVG vocabulary and implementation may change over time and is not required to remain backwards-compatible.
 
 The RPC is authorized to place constraints on SVG usage in RFCs for both technical and editorial reasons
 in order to ensure that published RFCs meet the above policy
 and to provide consistency across the RFC series.
-The RPC must document the acceptable usage of SVGs in RFCs.
+The RPC must document the acceptable usage of SVGs, and all changes to tooling or implementation decisions must be widely communicated to the RFC author community using mailing lists or other means.
 
 # Implementation Guidance
 
