@@ -34,7 +34,7 @@ author:
     organization: RFC Production Center
     email: jmahoney@staff.rfc-editor.org
   -
-    ins: M Thomson
+    ins: M. Thomson
     name: Martin Thomson
     organization: 
     email: mt@lowentropy.net
