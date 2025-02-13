@@ -33,7 +33,7 @@ author:
     name: Jean Mahoney
     organization: RFC Production Center
     email: jmahoney@staff.rfc-editor.org
-      -
+  -
     ins: M Thomson
     name: Martin Thomson
     organization: 
