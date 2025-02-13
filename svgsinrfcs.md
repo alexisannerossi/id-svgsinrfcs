@@ -1,6 +1,6 @@
 ---
 title: SVGs in RFCs
-docname: draft-rossi-svgsinrfcs-00
+docname: draft-rossi-svgsinrfcs-01
 venue:
   group: RSWG
   type: Editorial Stream Working Group
