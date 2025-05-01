@@ -26,7 +26,7 @@ author:
   -
     ins: N. Brownlee
     name: Nevil Brownlee
-    organization: 
+    organization:
     email: nevil.brownlee@gmail.com
   -
     ins: J. Mahoney
@@ -36,11 +36,11 @@ author:
   -
     ins: M. Thomson
     name: Martin Thomson
-    organization: 
+    organization:
     email: mt@lowentropy.net
 
 normative:
-  
+
 
 informative:
   RFC7996:
@@ -71,12 +71,12 @@ The RFC Publication Center (RPC) is responsible for making SVG tooling and imple
 
 # Policy Requirements
 
-SVG tooling and implementation decisions are made or overseen by the RPC, and must adhere to the policy requirements in this document. 
+SVG tooling and implementation decisions are made or overseen by the RPC, and must adhere to the policy requirements in this document.
 
-* SVGs may be included in RFCs to help explain a concept more clearly, but cannot be the only representation of that concept and must not contain details relevant to the RFC that are not also represented in the text. Normative descriptions of protocols, systems, etc. must be fully represented in the text of the RFC, and must not be contingent on comprehension of any SVG. SVGs are never to be considered as specifications in themselves. 
+* SVGs may be included in RFCs to help explain a concept more clearly, but cannot be the only representation of that concept. Normative descriptions of concepts - which might include protocols, formats, or system architectures - must be fully represented in the text of the RFC, and must not be contingent on comprehension of any SVG. SVGs are never to be considered as specifications in themselves.
 * SVGs must remain static after publication of the RFC, so there may be interactive, multimedia, or other elements that cannot be used.
 * Images and diagrams in RFCs should be successfully rendered and understood by the widest audience possible. To that end, the RPC may prohibit the use of SVG features that are known to lack support on common devices, that do not render on small or low-resolution screens, or that could make diagrams less comprehensible for any significant readership. This includes:
-  * SVGs must not contain pointers to external resources.  
+  * SVGs must not contain pointers to external resources.
   * SVGs must not contain executable script.
   * SVGs should be as accessible as possible to people with visual disabilities, including those who have color blindness, those who need to scale or change fonts, and those who use screen reading software. The RPC will refer to the W3C Accessibility Guidelines {{WAI}} when making decisions regarding accessibility.
 * Authors may include multiple versions of images or diagrams in rfcxml.  Publication formats should present the version that is best suited to each format.  In many cases, that will be an SVG.
@@ -110,4 +110,3 @@ This document has no IANA actions.
 
 
 --- back
-
