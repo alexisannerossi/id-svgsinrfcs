@@ -57,7 +57,7 @@ informative:
 
 --- abstract
 
-This document sets policy for the inclusion of SVGs in the definitive versions of RFCs and relevant publication formats. It contains policy requirements from {{RFC7996}} and removes all requirements related to using a specific SVG profile or specific implementation code. It also makes the RFC Publication Center (RPC) responsible for implementation decisions regarding SVGs.
+This document sets policy for the inclusion of SVGs in the definitive versions of RFCs and relevant publication formats. It contains policy requirements from RFC 7996 and removes all requirements related to using a specific SVG profile or specific implementation code. It also makes the RFC Publication Center (RPC) responsible for implementation decisions regarding SVGs.
 
 --- middle
 
