@@ -74,7 +74,7 @@ The RFC Publication Center (RPC) is responsible for making SVG tooling and imple
 SVG tooling and implementation decisions are made or overseen by the RPC, and must adhere to the policy requirements in this document.
 
 * SVGs may be included in RFCs to help explain a concept more clearly, but should not be the only representation of that concept. A good faith effort should be made to assure that descriptions of concepts - which might include protocols, formats, or system architectures - are fully represented in the text of the RFC. At minimum, SVGs should be consistent with the text.
-* SVGs must render in a single static configuration without dynamic elements or responsive design features.
+* SVGs must not include animation or interactive features. SVGs should include only limited reactive design elements (scaling, dark/light mode, and perhaps minor adjustments to allow for variations in display technology). The intent of this is to ensure that the diagram's meaning is not altered.
 * Images and diagrams in RFCs should be successfully rendered and understood by the widest audience possible. To that end, the RPC may prohibit the use of SVG features that are known to lack support on common devices, that do not render on small or low-resolution screens, or that could make diagrams less comprehensible for any significant readership. This includes:
   * SVGs must not contain pointers to external resources.
   * SVGs must not contain executable script.
