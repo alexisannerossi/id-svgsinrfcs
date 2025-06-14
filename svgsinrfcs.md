@@ -1,4 +1,4 @@
----
+-02---
 title: SVGs in RFCs
 docname: draft-editorial-rswg-svgsinrfcs-03
 venue:
