@@ -1,6 +1,6 @@
--02---
+---
 title: SVGs in RFCs
-docname: draft-editorial-rswg-svgsinrfcs-03
+docname: draft-editorial-rswg-svgsinrfcs-02
 venue:
   group: RSWG
   type: Editorial Stream Working Group
@@ -40,6 +40,7 @@ author:
     email: mt@lowentropy.net
 
 normative:
+
 
 informative:
   RFC7996:
