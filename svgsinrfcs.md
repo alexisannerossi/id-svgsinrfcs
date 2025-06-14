@@ -41,7 +41,6 @@ author:
 
 normative:
 
-
 informative:
   RFC7996:
   ABOUT-SVG:
