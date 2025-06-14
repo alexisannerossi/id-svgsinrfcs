@@ -48,7 +48,7 @@ informative:
     author:
       org: W3C
     title: About SVG
-    target: https://www.w3.org/Graphics/SVG/About
+    target: https://www.w3.org/Graphics/SVG/
   WAI:
     author:
       org: W3C
