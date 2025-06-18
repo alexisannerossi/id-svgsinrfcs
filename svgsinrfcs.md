@@ -44,11 +44,11 @@ normative:
 
 informative:
   RFC7996:
-  ABOUT-SVG:
+  SVG:
     author:
       org: W3C
-    title: About SVG
-    target: https://www.w3.org/Graphics/SVG/
+    title: Scalable Vector Graphics (SVG)
+    target: https://www.w3.org/TR/SVG/
   WAI:
     author:
       org: W3C
@@ -65,7 +65,7 @@ This document sets policy for the inclusion of SVGs in the definitive versions o
 
 This document sets policy for the inclusion of SVGs (Scalable Vector Graphics) in the definitive versions of RFCs and relevant publication formats. It contains policy requirements taken from {{RFC7996}} and removes all requirements related to using a specific SVG profile or specific implementation code.
 
-SVG has been developed by W3C, the World Wide Web Consortium {{ABOUT-SVG}}.
+SVG has been developed by W3C, the World Wide Web Consortium {{SVG}}.
 
 The RFC Publication Center (RPC) is responsible for making SVG tooling and implementation decisions. They may want to use the content of {{RFC7996}} as a starting point for those decisions, but they are not bound by {{RFC7996}} and they may change elements of the implementation as needed to support the RFC authoring community as long as those changes are aligned with the policy requirements in this document.
 
