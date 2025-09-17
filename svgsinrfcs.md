@@ -1,6 +1,6 @@
--02---
+-04---
 title: SVGs in RFCs
-docname: draft-editorial-rswg-svgsinrfcs-03
+docname: draft-editorial-rswg-svgsinrfcs-04
 venue:
   group: RSWG
   type: Editorial Stream Working Group
