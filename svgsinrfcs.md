@@ -1,4 +1,4 @@
--04---
+---
 title: SVGs in RFCs
 docname: draft-editorial-rswg-svgsinrfcs-04
 venue:
@@ -40,6 +40,7 @@ author:
     email: mt@lowentropy.net
 
 normative:
+
 
 informative:
   RFC7996:
